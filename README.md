@@ -474,6 +474,20 @@ See [LICENSE](LICENSE) for full details.
 - Email ID: @arokiyanithishj@gmail.com
 - My Portfolio: [Arokiya Nithish](https://arokiyanithish.github.io/portfolio/)
 
+
+## 💬 Feedback & Testimonials
+
+> "I had the pleasure of supervising Arokiya Nithish J during his four-month internship at Greensoft Groups, where he worked as a Full Stack Python Developer. From **July 14, 2025, to September 30, 2025**, Arokiya made significant contributions to our team while demonstrating his eagerness to learn and grow.
+> 
+> Arokiya impressed me with his proficiency in **frontend development, particularly with HTML, CSS, and JavaScript**. He showcased his ability to design and build responsive, interactive web pages, contributing to various projects that enhanced our user experience. His commitment to quality and attention to detail were evident in the work he delivered.
+> 
+> Beyond his technical skills, Arokiya exhibited **strong teamwork and communication abilities**. He actively sought feedback and was receptive to guidance, which not only improved his own skills but also fostered a collaborative atmosphere within the team.
+> 
+> I wholeheartedly recommend Arokiya for any future endeavors. He is a dedicated and talented individual who will bring value to any organization. I am confident that he will continue to excel in his career."
+>
+> — **Prem Nivaas A**, Supervisor at GreenSoft Groups
+
+--- 
 ### Acknowledgments
 
 - 🌐 **Django Documentation** — For exceptional backend architectural references.
@@ -504,6 +518,7 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *© 2026 — Arokiya Nithish J*
 
 </div>
+
 
 
 
