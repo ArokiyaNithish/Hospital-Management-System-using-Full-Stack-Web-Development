@@ -487,7 +487,7 @@ See [LICENSE](LICENSE) for full details.
 1. [Django Framework Documentation](https://docs.djangoproject.com/en/stable/)
 2. [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 3. [Python PEP 8 Style Guide](https://peps.python.org/pep-0008/)
-4.[Complete details Report of the Project](https://drive.google.com/file/d/1ab5c-1w3gj_V9IwiXw45dD67WHlgEMUj/view?usp=sharing)
+4. [Complete details Report of the Project](https://drive.google.com/file/d/1ab5c-1w3gj_V9IwiXw45dD67WHlgEMUj/view?usp=sharing)
 ---
 
 <div align="center">
@@ -503,5 +503,6 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *© 2026 — Arokiya Nithish J*
 
 </div>
+
 
 
