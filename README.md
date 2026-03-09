@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 Hospital Management System using Full Stack Web Development
+# 🏥 Hospital Management System 
 
 ### *Comprehensive Full-Stack Web Application for Healthcare Operations*
 
@@ -504,6 +504,7 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *© 2026 — Arokiya Nithish J*
 
 </div>
+
 
 
 
