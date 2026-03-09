@@ -7,6 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Django](https://img.shields.io/badge/Django-6.0-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Internship](https://img.shields.io/badge/Internship-GreenSo%20Groups-blueviolet?style=for-the-badge)](https://greensoftgroups.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 > 🚀 **An end-to-end full-stack platform** to streamline hospital workflows by providing dedicated portals for doctors and patients with role-based access control.
@@ -417,10 +418,12 @@ git push origin feature/amazing-feature
 
 ### Reporting Issues
 
-Please formulate an issue in the repository for bugs, UI glitches, or feature demands!
+Please use [GitHub Issues](https://github.com/ArokiyaNithish/Hospital-Management-System-using-Full-Stack-Web-Development/issues) to:
+- 🐛 Report bugs
+- 💡 Request features
+- ❓ Ask questions
 
 ---
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — you are free to use, modify, and distribute this code with attribution.
@@ -500,4 +503,5 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *© 2026 — Arokiya Nithish J*
 
 </div>
+
 
