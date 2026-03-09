@@ -462,6 +462,7 @@ See [LICENSE](LICENSE) for full details.
 ### Author
 
 **Arokiya Nithish J**
+- Role : Full Stack Python Developer
 - 🎓 Internship Company — GreenSoft Groups, Intern ID: 24347 
 - 📅 Year: 2025 , Mode - Offline
 - 💼 Domain: Full stack Python Decveleper | Medical Analaysis | 
@@ -503,6 +504,7 @@ For support, email arokiyanithishj@gmail.com or create an issue in the GitHub re
 *© 2026 — Arokiya Nithish J*
 
 </div>
+
 
 
 
