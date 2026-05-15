@@ -8,8 +8,7 @@
 [![Django](https://img.shields.io/badge/Django-6.0-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Internship](https://img.shields.io/badge/Internship-GreenSo%20Groups-blueviolet?style=for-the-badge)](https://greensoftgroups.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-
+[![Apache License](https://img.shields.io/badge/License-Apache%202.0-D22128?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
 > 🚀 **An end-to-end full-stack platform** to streamline hospital workflows by providing dedicated portals for doctors and patients with role-based access control.
 
 </div>
